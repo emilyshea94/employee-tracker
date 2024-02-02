@@ -14,9 +14,9 @@ const db = mysql.createConnection(
     console.log(`Connected to the employee.db database.`)
   );
   
-  const sql = ` INTO movies (movie_name)
+  const sql = ` INTO employee.db (employee_db)
     VALUES (?)`;
-  const params = [body.movie_name];
+  const params = [department.employee_db];
   
   db.query(sql, params, (err, result) => {
     if (err) {
