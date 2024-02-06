@@ -11,6 +11,9 @@ I had difficulty navigationg the MySQL Workbench at first considering it is a ne
 When the user types "node index.js" into the command line they are presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role.
 The user can then click on any of those avaible titles and they are able to view or edit the employees on the list.
 https://github.com/emilyshea94/employee-tracker
+[employee tracker.webm](https://github.com/emilyshea94/employee-tracker/assets/144382382/95c4a9bb-1cc2-4d82-b981-4ad09c9c557d)
+
+
 
 ## Installation
 In order to use this application you will need to first run an npm install in your CLI to install the dependencies 
