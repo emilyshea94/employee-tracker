@@ -13,7 +13,9 @@ The user can then click on any of those avaible titles and they are able to view
 https://github.com/emilyshea94/employee-tracker
 
 ## Installation
-In order to use this application you will need to first run an npm install in your CLI to install the dependencies that have been loaded into the json files for you. Once this is done, run node server.js in your CLI to start the prompts that will walk you through the verious tasks you can perform with this application.
+In order to use this application you will need to first run an npm install in your CLI to install the dependencies 
+that have been loaded into the json files for you. Once this is done, 
+run node server.js in your CLI to start the prompts that will walk you through the verious tasks you can perform with this application.
 
 
 
