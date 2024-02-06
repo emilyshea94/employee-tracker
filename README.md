@@ -24,7 +24,7 @@ The user can then click on any of those avaible titles and they are able to view
 
 
 ## License 
-## License
+
 The MIT License (MIT)
 
 Copyright (c) Emily
