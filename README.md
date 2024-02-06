@@ -21,6 +21,8 @@ The user can then click on any of those avaible titles and they are able to view
 
 
 ## Credits
+I had help from a tutor that was provided to me from 
+Tutor Management Team EDX
 
 
 ## License 
