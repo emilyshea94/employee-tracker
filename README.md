@@ -6,6 +6,7 @@ This employee tracker allows the user view, change and update employees that I c
 I used the id's I was given in the criteria instructions to create my own departments, roles and employees.
 I had a lot of fun with this challange after getting help from a tutor that better explained the connection between JavaScript and mySQL.
 I had difficulty navigationg the MySQL Workbench at first considering it is a new applicaion to me but after successfully building my db.sql and seeds.sql files and implementing them I was able to understanf the functionaliy of this application so much better.
+
 https://github.com/emilyshea94/employee-tracker
 
 ## Usage
