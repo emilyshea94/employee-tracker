@@ -13,7 +13,14 @@ https://github.com/emilyshea94/employee-tracker
 When the user types "node index.js" into the command line they are presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role.
 The user can then click on any of those avaible titles and they are able to view or edit the employees on the list.
 
-[Uploading employee tracker.webm…]()
+[employee tracker.webm](https://github.com/emilyshea94/employee-tracker/assets/144382382/90ae2c5f-f65b-409f-85e4-fde461cb5a92)
+![portfollio image](https://github.com/emilyshea94/employee-tracker/assets/144382382/475630a6-42a4-4aef-991e-55843ac351bd)
+![howls_moving_castle-9](https://github.com/emilyshea94/employee-tracker/assets/144382382/113bd1a0-590c-4d9f-bebe-8bbf0b5c4240)
+![hayao-miyazaki-studio-ghibli-anime-howl-s-moving-castle-720P-wallpaper](https://github.com/emilyshea94/employee-tracker/assets/144382382/e2c20bf7-f309-4c7a-a2b8-4a07262cc7e0)
+![GFSjnlEW8AECC1m](https://github.com/emilyshea94/employee-tracker/assets/144382382/3aff9760-03ad-45ef-bbe0-0b692c09420e)
+
+
+
 
 
 ## Installation
